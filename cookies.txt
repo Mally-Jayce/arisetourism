@@ -1,0 +1,32 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+demo.goodlayers.com	TRUE	/traveltour/homepages/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+demo.goodlayers.com	TRUE	/	FALSE	1999999999	tourmaster-tour-4605	1
+demo.goodlayers.com	TRUE	/	FALSE	1999999999	tourmaster-tour-4621	1
+demo.goodlayers.com	TRUE	/	FALSE	1999999999	tourmaster-tour-4642	1
+demo.goodlayers.com	TRUE	/	FALSE	1999999999	tourmaster-tour-4649	1
+demo.goodlayers.com	TRUE	/	FALSE	1999999999	tourmaster-tour-4627	1
+demo.goodlayers.com	TRUE	/	FALSE	1999999999	tourmaster-tour-4648	1
+demo.goodlayers.com	TRUE	/	FALSE	1999999999	tourmaster-tour-4647	1
+demo.goodlayers.com	TRUE	/	FALSE	1999999999	tourmaster-tour-4646	1
+demo.goodlayers.com	TRUE	/	FALSE	1999999999	tourmaster-tour-4645	1
+www.pinterest.com	TRUE	/	FALSE	1999999999	csrftoken	7168ec63070e0c3b404165bfd18987c9
+.pinterest.com	TRUE	/	FALSE	1999999999	_pinterest_sess	TWc9PSZkb3UzZnlzZWpHVFVueXpsNFN0T0NENHdqaHVvWHl1WmhLL0g5dU5pUVJDbjFYWnJGNXNkYWNESnVhMlZzQzFrWFNrZjI2RmVlb3BhazVUeC8zNmJvSmVnem81R3QrbUJ1V2F1QnVZVnYvZz0mbTAyQXh1eUJEYkthUEpMZmV2L1M5N1VCWEVBPQ==
+www.pinterest.com	TRUE	/	FALSE	1999999999	samesite	none
+.pinterest.com	TRUE	/	FALSE	1999999999	_auth	0
+www.pinterest.com	TRUE	/	FALSE	1999999999	_routing_id	4ea40ec6-a111-4a50-ad8a-9db1025a63b4"
+demo.goodlayers.com	TRUE	/	FALSE	1999999999	tourmaster-tour-4643	1
+demo.goodlayers.com	TRUE	/	FALSE	1999999999	tourmaster-tour-4641	1
+demo.goodlayers.com	TRUE	/	FALSE	1999999999	tourmaster-tour-4640	1
+demo.goodlayers.com	TRUE	/	FALSE	1999999999	tourmaster-tour-4639	1
+demo.goodlayers.com	TRUE	/	FALSE	1999999999	tourmaster-tour-4644	1
+demo.goodlayers.com	TRUE	/	FALSE	1999999999	tourmaster-tour-4637	1
+demo.goodlayers.com	TRUE	/	FALSE	1999999999	tourmaster-tour-4623	1
+demo.goodlayers.com	TRUE	/	FALSE	1999999999	tourmaster-tour-4601	1
+demo.goodlayers.com	TRUE	/	FALSE	1999999999	tourmaster-tour-4635	1
+demo.goodlayers.com	TRUE	/	FALSE	1999999999	tourmaster-tour-4634	1
+demo.goodlayers.com	TRUE	/	FALSE	1999999999	tourmaster-tour-4632	1
+demo.goodlayers.com	TRUE	/	FALSE	1999999999	tourmaster-tour-4591	1
+demo.goodlayers.com	TRUE	/	FALSE	1999999999	tourmaster-tour-4607	1
+demo.goodlayers.com	TRUE	/	FALSE	1999999999	tourmaster-currency	usd
+
